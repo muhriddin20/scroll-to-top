@@ -1,0 +1,1 @@
+HTML, CSS, JavaScript orqali yasalgan scroll to top loyihasi. Ushbu loyiha ekran scroll qilinganda ekraning o'ng tomon pastki qismida tugma ko'rinadi va tugma bosilganda scroll uana tepaga qaytib qoladi.
